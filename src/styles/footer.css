@@ -1,0 +1,12 @@
+footer{
+    margin-top: -5px;
+}
+.footer_itens{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.footer_itens span{
+    color: whitesmoke;
+}
